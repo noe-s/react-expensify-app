@@ -1,7 +1,5 @@
-# Git commands
-
-git init - Create new git repo
-git status - View changes to project code
-git add - Add file(s) to staging area
-git commit - Create new commit with files from staging area
-git log - View recent commits
+This is an app created as part of an online course built on React with Redux.
+Features include:
+- Google Authentication
+- Firebase real-time database
+- Responsive design (Mobile compatible)
